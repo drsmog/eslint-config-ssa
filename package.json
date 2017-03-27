@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-ssa",
+  "version": "1.0.0",
+  "description": "ssa es linting configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drsmog/eslint-config-ssa.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "ssa",
+    "config",
+    "geo",
+    "georgia",
+    "es",
+    "js"
+  ],
+  "author": "smog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drsmog/eslint-config-ssa/issues"
+  },
+  "homepage": "https://github.com/drsmog/eslint-config-ssa#readme",
+  "dependencies": {
+    "eslint": "3.18.0",
+    "eslint-config-google": "0.7.1"
+  }
+}
